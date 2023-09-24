@@ -41,87 +41,7 @@ body {
 .tag-languge {
   text-align: center;
   font-size: 12px;
-  background-color: #fa382f;
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-green {
-  text-align: center;
-  font-size: 14px;
-  background-color: green;
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-yellow {
-  text-align: center;
-  font-size: 14px;
-  background-color: yellow;
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-pink {
-  text-align: center;
-  font-size: 14px;
-  background-color: pink;
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-purple {
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(124, 11, 132);
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-blue {
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(77 55 201 / 76%);
-  color: black;
-   padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-orange {
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(250, 24, 24);
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-lightblue {
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(96, 193, 254);
-  color: black;
-  padding: 5px;
-  margin: 5px 5px 5px 0;
-  font-weight: bold;
-  border-radius: 10px;
-}
-.tag-languge-white {
-  text-align: center;
-  font-size: 14px;
-  background-color: rgb(255, 255, 255);
+  background-color: #ebe5d2;
   color: black;
   padding: 5px;
   margin: 5px 5px 5px 0;
@@ -189,7 +109,8 @@ body {
 .socials-icons {
   width: 40px;
   height: 40px;
-margin: 5px;}
+  margin: 5px;
+}
 .intro-text {
   font-family: Montserrat;
   font-style: normal;
@@ -252,7 +173,8 @@ margin: 5px;}
   opacity: 70%;
 }
 .overlay-text {
-  font-size: 25px;left: 50%;
+  font-size: 25px;
+  left: 50%;
   top: 50%;
   margin: 0px;
   transform: translate(-50%, -50%);
@@ -357,8 +279,9 @@ margin: 5px;}
 }
 a:visited,
 a:link {
-    color: black;
-    text-decoration: none;}
+  color: black;
+  text-decoration: none;
+}
 /* ------- Skills SECTION ------- */
 .skills {
   color: #fff;
@@ -494,8 +417,8 @@ a:link {
   .thoughts-text {
     font-size: 25px;
     line-height: 33px;
-     margin: 20px;
-}
+    margin: 20px;
+  }
   .my-thoughts-description {
     font-size: 25px;
     line-height: 41px;
